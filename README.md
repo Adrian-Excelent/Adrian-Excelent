@@ -1,4 +1,4 @@
-Hi 👋 My name is Adrian
+<H1>Hi</H1> 👋 <H2>My name is Adrian</H2>
 I'm a front-end developer passionate about building interactive and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I am currently expanding my expertise in Node.js, React, and TypeScript, while also learning MySQL for database management. In addition, I have experience with WordPress development and SEO (Search Engine Optimization), helping websites rank higher and perform better.
 
 🚀 What I'm working on:
@@ -19,7 +19,7 @@ Building real-world projects to sharpen my development skills
 
 ⚡ Passionate about coding, gaming, and tech innovation
 
-🛠️ Skills: ## Skills  
+🛠️ Skills:  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
