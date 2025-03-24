@@ -1,4 +1,4 @@
-<H1>Hi</H1> 👋 <H2>My name is Adrian</H2>
+<H1>Hi 👋</H1> <H2>My name is Adrian</H2>
 I'm a front-end developer passionate about building interactive and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I am currently expanding my expertise in Node.js, React, and TypeScript, while also learning MySQL for database management. In addition, I have experience with WordPress development and SEO (Search Engine Optimization), helping websites rank higher and perform better.
 
 🚀 What I'm working on:
